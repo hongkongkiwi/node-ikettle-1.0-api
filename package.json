@@ -1,0 +1,31 @@
+{
+  "name": "ikettle-1.0-api",
+  "version": "1.0.0",
+  "description": "Node.js module to control iKettle 1.0, including discovery.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/hongkongkiwi/node-ikettle-1.0-api"
+  },
+  "keywords": [
+    "ikettle",
+    "chocolate",
+    "tea",
+    "home",
+    "automation",
+    "wifi",
+    "jug",
+    "kettle"
+  ],
+  "author": "Andy Savage <andy@savage.hk>",
+  "license": "MIT",
+  "dependencies": {
+    "bit-mask": "0.0.2-alpha",
+    "bluebird": "^3.4.1",
+    "evilscan": "^1.0.2",
+    "underscore": "^1.8.3"
+  }
+}
